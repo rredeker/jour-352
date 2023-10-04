@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <meta name="description" content="">
+    <link rel="stylesheet" href="css/landing.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+<body>
+    <h1 style="color:brown">Pumpkinfest Petting Zoo</h1>
+    <p1>For just over 15 years, the annual Pumpkinfest Petting Zoo has offered an experience for 
+        families to come see animals including cows, goats, horses and roosters. Opening on October 1st, 
+        we are more than excited to see you, your family and your friends from 9:00 a.m. to 4:00 p.m. from 
+        Thursday through Sunday. Happy Fall!
+    </p1>
+    <img src=https://preview.redd.it/5bui06onhgma1.jpg?width=640&crop=smart&auto=webp&s=0ed8c2d54ff7546fa8e4d4ebc438d221cb63b7b2
+    <p2>Mia/Milo are two of our cows this season. They are both two years old born near eachother, and are friends. Our farm is conveniently located in South Lyon, New Hampshire at the corner of Ten Mile 
+        and Fruitport Road. The address is 232 Columbia Drive, South Lyon, New Hampshire, 20827. 
+        Get a close up view of our 36 animals and experience pumpkin patches and a hay ride. Book a field trip, Birthday party,
+        or private Hay ride with us by calling (616)-600-6001. 
+    </p2>
+    <p3>In the month of October, a paid admission to the petting zoo comes with a free pass to the pumpkin 
+        patch, and one free hay ride. Wear your halloween costume for a chance to win unlimited hay rides for the season. 
+    </p3> 
+    <img src="https://media.timeout.com/images/105288587/750/562/image.jpg"> 
+    <h2 style="color: green;"> <b>Pricing</b></h2>
+    <p4>An unlimited admission for the day includes all hours and all activities. This includes the Petting Zoo, Hay Rides, Pumpkin Patch and the Maze.
+        This pass costs $40 for adults and $30 for children (0-16) and seniors (65+). You can also get a half day pass for $20 as an adult and $10 for children 
+        and seniors. You may purchase a pass for a singular activity for $10. 
+        If you choose to pick a pumpkin from the patch, it will be priced by weight. However, most of the pumpkins will be between $4 and $10.
+        There is also an information center where you can donate to our animals. 
+        We also are open to hosting school or group field trips at a significant discount. Upon scheduled time, we can open during the weekdays for events. For a 
+        $150 fee, we will open and allow up to 25 people with the pass with a $15 fee per additional person. 
+    </p4>
+    <div class="container">
+        <h1 style="color:brown">See you Soon!</h1>
+        Contact information:
+        <i>John Smith, Director of Operations.</i>
+        <p5>Phone Number: (211)-311-4111, Email: Jsmithfarms@gmail.com.    
+            <i>Our mission is to put our animals first, while providing enjoyment to those who love to see them. Please reach out if there are any 
+                concerns or questions you have regarding your experience. Have a great season. 
+            </i>
+            <img src="https://collincounty.momcollective.com/wp-content/uploads/2022/05/ccm-preston-trail-768x1024.jpg"
+        </p5>
+      </div>
+    </body> 
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>  
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+        crossorigin="anonymous"></script>
+</body>
+</html>
