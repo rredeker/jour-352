@@ -1,0 +1,25 @@
+body{
+    font-size: 15px;
+    background-color: olive;
+}
+h1 {
+    font-size: 60px;
+    font-family: cursive;
+    color: antiquewhite;background-color: olive;
+}
+
+h2 {
+    font-family: cursive;
+    color: olive;
+    background-color:antiquewhite
+
+}
+.column{
+    float: left;
+}
+.left{
+    width: 40%;
+}
+.right{
+    width: 60%}
+ 
