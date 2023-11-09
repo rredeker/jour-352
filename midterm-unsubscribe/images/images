@@ -1,0 +1,120 @@
+<img src="https://uc2d38c2bf64a8a83853494f8bdc.previews.dropboxusercontent.com/p/thumb/ACE6JZMBsCDTQEwsgo4vtpIXJK_q4MO-2XM6LBnC4nZ-RdRJm9C_7Hf-zTtubCrvX4MAPuYQx_C8uafuu_IuxM8EECkzZmcSltU5r7SX4OpNdbnyjix4LKlPMgU-wjQw1PmJyvDg6soyXg_DeSPP4gmUxKbSECp7ewe0qSZg1_d6JpzurZ84N2l0gD2CGL17rT64x1P413YGCMjitD5fCoSCMYV5f1NhgPGM-XuWTqPSGxTSBp-WTgtEjY8cEt-cLXCWLX-7fpUmS4s99Yfndxo7jMjzTV_B9jUoxv4wr25kcbjXRH22JngNEjlwjrLtFQAYkyX5rXL3gsq7x875EZGSm3vvzfnLMeSyXlWeruWI-w/p.png">
+
+
+
+
+
+
+
+
+
+
+.body{
+    background-color: black;font-size: 150px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: black;
+    color: white;background-color: black;font-family: 'Courier New', Courier, monospace;font-size:100px
+  }
+  header{
+    min-height:100vh;
+}
+.results-section{
+    min-height: 80vh;
+}
+h1{
+    color: black;background-color: white;font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size: 150px;
+}
+ 
+h2{
+    color: black;background-color: white;font-size: 100px; font-family: 'Inconsolata', monospace;
+        font-weight: 700;
+}
+.container{
+        background-color: white;
+        color: black;
+        font-family: 'Inconsolata', monospace;
+        font-weight: 700;
+        font-size: 50px;
+            padding-right: 1100px;
+            padding-left: 1100px;
+            margin-left: auto;
+    margin-right: auto;
+    }
+    .spacing {
+        margin: 5%;
+    }
+
+
+
+
+!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>midterm-unsubsribe</title>
+    <meta name="description" content="midterm">
+    <link rel="stylesheet" href="css/midterm-unsubscribe.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+</head>
+<body>
+    </style>
+    <img src="https://uc2d38c2bf64a8a83853494f8bdc.previews.dropboxusercontent.com/p/thumb/ACGAf8kbwhTsNHU1oqXOHMfK0CJJFPsANSfhfAyfz3GcsVt-M5NkE5dEw2o024Q6D8he_3EclJEdDlfittHAr04m1LIDCAFsLVKBACW3HEsz5PDfdNZCwIWcAUf4sPYgqO47LQi2Z5MTFHlIgrq0PXNSx-aVyDDKlNR3dYI0ySEy0We7dovEphDmp1TZ2hdq9d580ujE3QzuiOLVEPD6vTMgaTIedvy30kbaUcLiPjWIF0vSELzd2cNPxuTJmMzQ-DZqgiXTJKglFa-fMI9COzXMDXmxRtv7sfcSvAxjqLppclnl0jMO9vcizKJ6ddUUdnfL3hEjuOW2d1oCVQOfx-CLKUVSjxtPgxQt-iX7FbauWA/p.png">
+<!--header-->
+<!-- 00-hero.png image-->
+
+<p>When you sign up for digital service, sometimes they make it difficult to unsubscribe.</p>
+<p>You see these tricks every time you order a product online, use a search engine, sign up for a streaming service, or
+    join a social media community. </p>
+<p>They’re so common in subscription and shopping websites that they have a name: Dark Patterns.</p>
+
+    <!-- script -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+        crossorin="anonymous"></script>
+</body>
+!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>midterm-unsubsribe</title>
+    <meta name="description" content="midterm">
+    <link rel="stylesheet" href="css/midterm-unsubscribe.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+</head>
+<body>
+    </style>
+    <img src="https://uc2d38c2bf64a8a83853494f8bdc.previews.dropboxusercontent.com/p/thumb/ACGAf8kbwhTsNHU1oqXOHMfK0CJJFPsANSfhfAyfz3GcsVt-M5NkE5dEw2o024Q6D8he_3EclJEdDlfittHAr04m1LIDCAFsLVKBACW3HEsz5PDfdNZCwIWcAUf4sPYgqO47LQi2Z5MTFHlIgrq0PXNSx-aVyDDKlNR3dYI0ySEy0We7dovEphDmp1TZ2hdq9d580ujE3QzuiOLVEPD6vTMgaTIedvy30kbaUcLiPjWIF0vSELzd2cNPxuTJmMzQ-DZqgiXTJKglFa-fMI9COzXMDXmxRtv7sfcSvAxjqLppclnl0jMO9vcizKJ6ddUUdnfL3hEjuOW2d1oCVQOfx-CLKUVSjxtPgxQt-iX7FbauWA/p.png">
+<!--header-->
+<!-- 00-hero.png image-->
+
+<p>When you sign up for digital service, sometimes they make it difficult to unsubscribe.</p>
+<p>You see these tricks every time you order a product online, use a search engine, sign up for a streaming service, or
+    join a social media community. </p>
+<p>They’re so common in subscription and shopping websites that they have a name: Dark Patterns.</p>
+
+    <!-- script -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+        crossorin="anonymous"></script>
+</body>
