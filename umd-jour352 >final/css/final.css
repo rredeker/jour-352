@@ -1,0 +1,15 @@
+.body{
+    color: blue;
+    background-color: lightskyblue;
+    text-align: center;
+    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header{
+    font-size: 4em;
+    color:blue;
+    background-color: lightskyblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
